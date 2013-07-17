@@ -1,0 +1,10 @@
+{
+  "name": "Universal-Literacy-Library",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~3.2.6",
+    "jade": "~0.31.2",
+    "neo4j": "0.2.20"
+  }
+}
