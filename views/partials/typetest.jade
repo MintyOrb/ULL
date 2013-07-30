@@ -1,15 +1,67 @@
-//
-   Created with JetBrains WebStorm.
-   User: BornyTM
-   Date: 7/8/13
-   Time: 3:59 PM
-   To change this template use File | Settings | File Templates.
+h1 Type and Term Selection for Content
 
-h1 Prototyping Loading/selecting type for content
 
 div(ng-controller="typeCtrl")
-   button.btn(ng-click="whatsmyname(type)")(ng-repeat="type in display") {{type}}
-   p {{label}}
-   p {{value}}
+    button.btn(ng-click="reload()") Reload Terms
+    br
+    br
+    div.btn-group(ng-repeat="type in display")
+        button.btn(ng-click="includeExclude(3, type)")(ng-dblclick='includeExclude(2, type)') {{type}}
+        button.btn.dropdown-toggle.dropdown
+            span.caret
+        ul.dropdown-menu
+            li
+                a(ng-click="includeExclude(1, type)") Exclude Term
+            li
+                a(ng-click="includeExclude(3, type)") Include Term
+            li
+                a(ng-click="includeExclude(2, type)") Include and Load
+    p {{display}}
+    br
+    p {{incTypes}}
+    p {{excTypes}}
 
 
+div(ng-controller="termCtrl")
+    button.btn(ng-click="reload()") Reload Terms
+    br
+    br
+    div.btn-group(ng-repeat="term in display")
+        button.btn(ng-click="includeExclude(3, term)")(ng-dblclick='includeExclude(2, term)') {{term}}
+        button.btn.dropdown-toggle.dropdown
+            span.caret
+        ul.dropdown-menu
+            li
+                a(ng-click="includeExclude(1, term)") Exclude Term
+            li
+                a(ng-click="includeExclude(3, term)") Include Term
+            li
+                a(ng-click="includeExclude(2, term)") Include and Load
+    p {{display}}
+    br
+    p {{incTerms}}
+    p {{excTerms}}
+    p {{test}}
+
+div(ng-controller="content")
+    p {{test}}
+
+////for dynamically loaded terms based on content, it makes sense to excluded and load, otherwise it does not
+//div(ng-controller="termCtrl")
+//    div.btn-group(ng-repeat=" term in display")
+//        button.btn(ng-click="includeExclude(3, term)")(ng-dblclick='includeExclude(2, term)') {{term}}
+//        button.btn.dropdown-toggle.dropdown
+//            span.caret
+//        ul.dropdown-menu
+//            li
+//                a(ng-click="includeExclude(1, term)") Exclude Term
+//            li
+//                a(ng-click="includeExclude(0, term)") Exclude and Load
+//            li
+//                a(ng-click="includeExclude(3, term)") Include Term
+//            li
+//                a(ng-click="includeExclude(2, term)") Include and Load
+//    p {{display}}
+//    br
+//    p {{incTerms}}
+//    p {{excTerms}}

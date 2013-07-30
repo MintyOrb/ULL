@@ -6,7 +6,8 @@ angular.module('myApp', [
   'myApp.controllers',
   'myApp.filters',
   'myApp.services',
-  'myApp.directives'
+  'myApp.directives',
+  'ui.bootstrap.dropdownToggle'
 ]).
 config(function ($routeProvider, $locationProvider) {
   $routeProvider.
@@ -23,7 +24,7 @@ config(function ($routeProvider, $locationProvider) {
       controller: "MyCtrl2"
     }).
     when('/test', {
-      templateUrlg: 'partials/test',
+      templateUrl: 'partials/test',
       controller: "testCtrl"
     }).
       when('/add', {

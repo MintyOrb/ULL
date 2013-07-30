@@ -5,4 +5,44 @@
    Time: 11:44 PM
    To change this template use File | Settings | File Templates.
 
-p what is going wrong here.
+div.btn-group
+    button.btn Action! Adventure!
+    button.btn.dropdown-toggle(data-toggle="dropdown")
+        span.caret
+    ul.dropdown-menu
+        li Hi there
+        li is this thing on?
+
+br
+br
+
+
+div.btn-group
+    button.btn action! adventure
+    button.btn.dropdown-toggle.dropdown
+        span.caret
+    ul.dropdown-menu
+        li(ng-repeat='choice in items')
+            a {{choice}}
+br
+
+p {{servTest}}
+
+//<li class="dropdown" ng-controller="DropdownCtrl">
+//    <a class="dropdown-toggle">
+//        Click me for a dropdown, yo!
+//    </a>
+//    <ul class="dropdown-menu">
+//        <li ng-repeat="choice in items">
+//            <a>{{choice}}</a>
+
+//
+//<div class="btn-group">
+//    <button class="btn">Action</button>
+//    <button class="btn dropdown-toggle" data-toggle="dropdown">
+//        <span class="caret"></span>
+//    </button>
+//    <ul class="dropdown-menu">
+//        <!-- dropdown menu links -->
+//    </ul>
+//</div>
