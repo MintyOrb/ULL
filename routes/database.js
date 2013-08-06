@@ -11,35 +11,8 @@ neo4j = require('neo4j');
 db = new neo4j.GraphDatabase('http://localhost:7474');
 
 
-
-exports.test = function (req, res) {
-    var query = [
-        'MATCH n',
-        'RETURN n.name AS name, labels(n) AS labels'
-    ].join("\n");          //.replace when injecting params? see below
-    db.query(query, function (err, results) {
-        if (err) {throw err};
-            res.send(results);
-        });
-};
-
-exports.type = function (req, res) {
-    var query = [
-        'MATCH n:Type',
-        'RETURN n.name AS name, labels(n) AS tags'
-    ].join("\n");
-    db.query(query, function (err, results) {
-        if (err) {throw err};
-        res.send(results);
-    });
-};
-
 exports.term = function (req, res) {
-    var query = [
-        'MATCH n:Term',
-        'Where n:Sciences or n:Humanities',
-        'RETURN n.name AS name, labels(n) AS tags'
-    ].join("\n");
+    var query = ('MATCH n:Initial RETURN n.name AS name, labels(n) AS tags');
     db.query(query, function (err, results) {
         if (err) {throw err};
         res.send(results);
@@ -88,13 +61,6 @@ exports.getContent = function (req, res) {
  req.param('name')
  => "tobi"
  */
-
-//for (x in req.param('terms')) {
-
-//for (x in req/param('type')) {
-
-//var str="Visit Microsoft!";
-//var n=str.replace("Microsoft","W3Schools");
 
 
 

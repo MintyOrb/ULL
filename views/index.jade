@@ -1,33 +1,29 @@
 extends layout
 
 block body
-  div(ng-controller='AppCtrl')
-    h2 Hello {{name}}
+  div
+    h2 Universal Literacy Library
     ul.menu
-      li
-        a(href='view1') view1
-      li
-        a(href='view2') view2
-      li
-        a(href='test') test query
       li
         a(href='type') Type Test
       li
         a(href='add') Add New Content
-      li
-        a(href='view3') Dropdown test
 
     div(ng-view)
 
-    div
-      | Angular seed app: v
-      span(app-version)
 
 
+  //for angular
   script(src='js/lib/angular/angular.js')
   script(src='js/app.js')
   script(src='js/services.js')
   script(src='js/controllers.js')
   script(src='js/filters.js')
   script(src='js/directives.js')
+  //from angular bootstrap UI
   script(src='js/dropdownToggle.js')
+  script(src='js/rating.js')
+  //for ckEditor
+//  script(src='js/ckeditor.js')
+//  script(src='js/config.js')
+//  script(src='js/styles.js')

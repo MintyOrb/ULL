@@ -10,7 +10,7 @@ angular.module('ui.bootstrap.rating', [])
     scope: {
       value: '='
     },
-    templateUrl: 'template/rating/rating.html',
+    templateUrl: '../js/template/rating/rating.html',
     replace: true,
     link: function(scope, element, attrs) {
 

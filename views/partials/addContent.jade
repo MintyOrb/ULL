@@ -5,12 +5,68 @@
    Time: 4:04 PM
    To change this template use File | Settings | File Templates.
 
-//h1 Adding New Content Form
-//div(ng-controller="LoadBtn")
- //   p Placeholder Text.
 
-h1 adfkja;dlkfadlfkja;djl
-div
-    p This is the partial for add.
-    | Showing of 'interpolate' filter:
-    | {{ 'Current version is v%VERSION%.' | interpolate }}
+
+h1 Catalogue new content
+    // make sure the philosophy is understood before people add content (it's not about quantity but quality...)
+
+div(ng-controller="add")
+   form
+            label Content URL:
+            input(type="URL", ng-model="content.url")
+            //fetch preview if possible (video, website, etc)
+            label Title:
+            input(type="text", ng-model="content.title")
+            label Why is this content valuable? What should be taken away?:
+            textarea.span5(ng-model="content.valueStatement")
+            label Description of Content:
+            textarea.span5(ng-model="content.description")
+            label Source: What group or individual made this?
+            textarea.span5(ng-model="content.source")
+            label Relevant Dates:
+            textarea.span5(ng-model="content.links")
+            label Relevant Links:
+            textarea.span5(ng-model="content.links")
+
+
+
+
+   rating( value="rate", max="5")
+
+   p {{test}}
+
+   p why can't I see it?
+
+
+
+   //
+    p upload or link to content
+           p if image, downlaod it to server
+           p if video make sure embedding is setup
+           p if website take a screen shot and save to server
+
+            p this to have edit/make new options, new ones are voted on. Edits must be accepted by communicty/orignial writer
+    p title
+    p why is this content valuable? What should be taken away?
+    p description
+    p source
+        p who created it, when (date), and where
+    p relevant links
+        p list of links with brief descriptions (this list is ranked by users - eventually?)
+    p relevant dates - range or specific
+
+    p assign tags - by hand, suggestion, and core list
+
+    p initial ranking/categorization
+        p time to view/absorb
+        p academicism (playful -  rigerious)  - likert scale?
+        p centrality/importance - how critical is the knowledge within this content to bigger issues? (those with special interests - every single person should know and be exposed to this)- likert scale?
+                p vote weight depends on how into the community someone is - more integrated people essentially get more votes.
+                p if you verify special interest (degrees, jobs, projects, etc) areas then your vote in that area is also wieghted more
+
+            p other things associated/saved in each piece of content
+                p questions
+                p view count
+                p various ratings
+
+

@@ -2,31 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1042f322-d2fd-4140-a30d-f70938b1c82a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/addContent.jade" afterPath="$PROJECT_DIR$/views/partials/addContent.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/controllers.js" afterPath="$PROJECT_DIR$/public/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/database.js" afterPath="$PROJECT_DIR$/routes/database.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/rating.js" afterPath="$PROJECT_DIR$/public/js/rating.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/services.js" afterPath="$PROJECT_DIR$/public/js/services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/typetest.jade" afterPath="$PROJECT_DIR$/views/partials/typetest.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Holistic Perspective.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375161802845" ignored="false" />
+    <file path="/Dummy.txt" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375480025060" ignored="false" />
     <file path="$PROJECT_DIR$/../test grounds/PLAY.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1372129752301" ignored="false" />
-    <file path="/index.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374046924881" ignored="false" />
+    <file path="/index.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375486063777" ignored="false" />
     <file path="/package.json" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373946342678" ignored="false" />
-    <file path="/layout.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373956713039" ignored="false" />
+    <file path="/layout.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375424520465" ignored="false" />
     <file path="/app.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374425859552" ignored="false" />
-    <file path="/controllers.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375158597829" ignored="false" />
+    <file path="/controllers.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375488304231" ignored="false" />
     <file path="/test.html" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1372891726589" ignored="false" />
     <file path="/test.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373949003106" ignored="false" />
-    <file path="/database.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375158590689" ignored="false" />
+    <file path="/database.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375170435877" ignored="false" />
     <file path="/load buttons.html" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373313270405" ignored="false" />
     <file path="/load buttons.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373319310153" ignored="false" />
     <file path="/loadbuttons.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373323828416" ignored="false" />
-    <file path="/typetest.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374808338153" ignored="false" />
-    <file path="/addContent.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374086276536" ignored="false" />
+    <file path="/typetest.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375489130159" ignored="false" />
+    <file path="/addContent.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375491980386" ignored="false" />
     <file path="/a.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373658565221" ignored="false" />
     <file path="/partial1.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373951384604" ignored="false" />
     <file path="/partial2.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373955925878" ignored="false" />
     <file path="/partial3.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374377269923" ignored="false" />
     <file path="/index.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374369989598" ignored="false" />
     <file path="/services.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374388931017" ignored="false" />
+    <file path="/README.md" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375162698623" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +61,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+            <state line="54" column="23" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,31 +70,48 @@
       <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/database.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="4" selection-start="1184" selection-end="1184" vertical-scroll-proportion="-2.0727272">
-              <folding>
-                <element signature="e#0#159#0" expanded="false" />
-                <element signature="e#281#564#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="27" selection-start="485" selection-end="485" vertical-scroll-proportion="-3.2727273">
+            <state line="64" column="0" selection-start="1833" selection-end="1833" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="2" selection-start="228" selection-end="228" vertical-scroll-proportion="0.2388535">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="56" selection-start="4359" selection-end="4359" vertical-scroll-proportion="1.4574468">
+            <state line="121" column="21" selection-start="5181" selection-end="5181" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1375161740000" expanded="true" signature="8988:9760" placeholder="..." />
+                <element signature="e#145#5108#0" expanded="false" />
+                <element signature="e#5770#8756#0" expanded="false" />
+                <marker date="1375491812000" expanded="true" signature="7961:8733" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rating.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/rating.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="23" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="2" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,25 +119,16 @@
       <file leaf-file-name="typetest.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/typetest.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="28" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.0">
+            <state line="28" column="26" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/services.js">
+      <file leaf-file-name="addContent.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/partials/addContent.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="partial3.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/partial3.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="14" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
+            <state line="33" column="10" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,22 +158,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/routes/api.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/views/partials/test.jade" />
         <option value="$PROJECT_DIR$/views/partials/partial1.jade" />
         <option value="$PROJECT_DIR$/views/partials/partial2.jade" />
-        <option value="$PROJECT_DIR$/views/layout.jade" />
-        <option value="$PROJECT_DIR$/views/index.jade" />
-        <option value="$PROJECT_DIR$/views/partials/addContent.jade" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/views/partials/partial3.jade" />
-        <option value="$PROJECT_DIR$/public/js/services.js" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/public/js/app.js" />
-        <option value="$PROJECT_DIR$/views/partials/typetest.jade" />
+        <option value="$PROJECT_DIR$/public/js/services.js" />
+        <option value="$PROJECT_DIR$/public/js/directives.js" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/routes/database.js" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/public/js/rating.js" />
+        <option value="$PROJECT_DIR$/views/partials/typetest.jade" />
         <option value="$PROJECT_DIR$/public/js/controllers.js" />
+        <option value="$PROJECT_DIR$/views/partials/addContent.jade" />
       </list>
     </option>
   </component>
@@ -188,6 +208,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,10 +286,6 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -284,44 +301,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Universal Literacy Library" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ULL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="103" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="104" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="104" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="104" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="114" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="893" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="895" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="893" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="109" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="106" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -341,6 +339,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/views/partials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -424,14 +425,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.81345564" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.81345564" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32721713" sideWeight="0.49960223" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24900557" sideWeight="0.6753049" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24582338" sideWeight="0.6737805" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24582338" sideWeight="0.18654434" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24582338" sideWeight="0.22477064" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32721713" sideWeight="0.5003978" order="7" side_tool="true" content_ui="tabs" />
@@ -441,6 +441,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262195" sideWeight="0.49960223" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -507,106 +508,113 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/partials/test.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="293" selection-end="293" vertical-scroll-proportion="0.32231405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="2" selection-start="628" selection-end="662" vertical-scroll-proportion="0.7643312" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="299" selection-end="299" vertical-scroll-proportion="0.2388535" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.32231405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/partial1.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/filters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/partial2.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/addContent.jade">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.2388535" />
+        <state line="2" column="43" selection-start="85" selection-end="85" vertical-scroll-proportion="0.047923323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/partial3.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="14" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="14" selection-start="568" selection-end="568" vertical-scroll-proportion="0.6709265" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+        <state line="15" column="53" selection-start="354" selection-end="354" vertical-scroll-proportion="0.35942492" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="297" selection-end="297" vertical-scroll-proportion="0.2231405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.32231405">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+    <entry file="file://$PROJECT_DIR$/public/js/rating.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="485" selection-end="485" vertical-scroll-proportion="-3.2727273">
+        <state line="12" column="23" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-105.07601">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/typetest.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="28" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.0">
+        <state line="28" column="26" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="198" selection-end="198" vertical-scroll-proportion="0.2231405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="21" selection-start="5181" selection-end="5181" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#145#5108#0" expanded="false" />
+            <element signature="e#5770#8756#0" expanded="false" />
+            <marker date="1375491812000" expanded="true" signature="7961:8733" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="2" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/addContent.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="10" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/database.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="4" selection-start="1184" selection-end="1184" vertical-scroll-proportion="-2.0727272">
-          <folding>
-            <element signature="e#0#159#0" expanded="false" />
-            <element signature="e#281#564#0" expanded="false" />
-          </folding>
+        <state line="64" column="0" selection-start="1833" selection-end="1833" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="56" selection-start="4359" selection-end="4359" vertical-scroll-proportion="1.4574468">
-          <folding>
-            <marker date="1375161740000" expanded="true" signature="8988:9760" placeholder="..." />
-          </folding>
+        <state line="54" column="23" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="228" selection-end="228" vertical-scroll-proportion="0.2388535">
+          <folding />
         </state>
       </provider>
     </entry>
