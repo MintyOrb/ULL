@@ -2,43 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1042f322-d2fd-4140-a30d-f70938b1c82a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/upload.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/ckeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/dropdownToggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/rating.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/partials/loadbuttons.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/partials/partial1.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/partials/partial2.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/partials/partial3.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/partials/test.jade" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/addContent.jade" afterPath="$PROJECT_DIR$/views/partials/addContent.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/controllers.js" afterPath="$PROJECT_DIR$/public/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/database.js" afterPath="$PROJECT_DIR$/routes/database.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/directives.js" afterPath="$PROJECT_DIR$/public/js/directives.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/rating.js" afterPath="$PROJECT_DIR$/public/js/rating.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/services.js" afterPath="$PROJECT_DIR$/public/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/typetest.jade" afterPath="$PROJECT_DIR$/views/partials/typetest.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Holistic Perspective.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375480025060" ignored="false" />
+    <file path="/Dummy.txt" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378325754183" ignored="false" />
     <file path="$PROJECT_DIR$/../test grounds/PLAY.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1372129752301" ignored="false" />
-    <file path="/index.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375486063777" ignored="false" />
-    <file path="/package.json" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373946342678" ignored="false" />
-    <file path="/layout.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375424520465" ignored="false" />
-    <file path="/app.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374425859552" ignored="false" />
-    <file path="/controllers.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375488304231" ignored="false" />
+    <file path="/index.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378837908563" ignored="false" />
+    <file path="/package.json" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1376855984016" ignored="false" />
+    <file path="/layout.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1377466995460" ignored="false" />
+    <file path="/app.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1376982937988" ignored="false" />
+    <file path="/controllers.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378478811161" ignored="false" />
     <file path="/test.html" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1372891726589" ignored="false" />
     <file path="/test.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373949003106" ignored="false" />
-    <file path="/database.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375170435877" ignored="false" />
+    <file path="/database.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378392289047" ignored="false" />
     <file path="/load buttons.html" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373313270405" ignored="false" />
     <file path="/load buttons.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373319310153" ignored="false" />
     <file path="/loadbuttons.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373323828416" ignored="false" />
-    <file path="/typetest.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375489130159" ignored="false" />
-    <file path="/addContent.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375491980386" ignored="false" />
+    <file path="/typetest.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1377065453716" ignored="false" />
+    <file path="/addContent.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378478856941" ignored="false" />
     <file path="/a.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373658565221" ignored="false" />
     <file path="/partial1.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373951384604" ignored="false" />
     <file path="/partial2.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1373955925878" ignored="false" />
     <file path="/partial3.jade" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374377269923" ignored="false" />
     <file path="/index.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374369989598" ignored="false" />
-    <file path="/services.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1374388931017" ignored="false" />
+    <file path="/services.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1377748185948" ignored="false" />
     <file path="/README.md" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1375162698623" ignored="false" />
+    <file path="/upload.css" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1377467102031" ignored="false" />
+    <file path="/fileUpload.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378173503495" ignored="false" />
+    <file path="/directives.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378433504341" ignored="false" />
+    <file path="/config.js" changelist="1042f322-d2fd-4140-a30d-f70938b1c82a" time="1378478077192" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +74,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="23" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/database.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="1833" selection-end="1833" vertical-scroll-proportion="0.0">
+            <state line="65" column="12" selection-start="1304" selection-end="1307" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,7 +83,25 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="228" selection-end="228" vertical-scroll-proportion="0.2388535">
+            <state line="9" column="16" selection-start="209" selection-end="209" vertical-scroll-proportion="0.21496816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="39" selection-start="2083" selection-end="2083" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="directives.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/directives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="35" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -88,20 +110,104 @@
       <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="21" selection-start="5181" selection-end="5181" vertical-scroll-proportion="0.0">
+            <state line="308" column="37" selection-start="12567" selection-end="12567" vertical-scroll-proportion="0.0">
               <folding>
+                <element signature="e#15#32#0" expanded="false" />
                 <element signature="e#145#5108#0" expanded="false" />
-                <element signature="e#5770#8756#0" expanded="false" />
-                <marker date="1375491812000" expanded="true" signature="7961:8733" placeholder="..." />
+                <element signature="e#377#1046#0" expanded="false" />
+                <element signature="e#425#584#0" expanded="false" />
+                <element signature="e#486#566#0" expanded="false" />
+                <element signature="e#627#822#0" expanded="false" />
+                <element signature="e#724#804#0" expanded="false" />
+                <element signature="e#1081#1176#0" expanded="false" />
+                <element signature="e#1220#1270#0" expanded="false" />
+                <element signature="e#1311#1361#0" expanded="false" />
+                <element signature="e#1419#5101#0" expanded="false" />
+                <element signature="e#1433#5090#0" expanded="false" />
+                <element signature="e#1716#1805#0" expanded="false" />
+                <element signature="e#1977#4721#0" expanded="false" />
+                <element signature="e#2073#4699#0" expanded="false" />
+                <element signature="e#2148#3727#0" expanded="false" />
+                <element signature="e#2417#2820#0" expanded="false" />
+                <element signature="e#2492#2786#0" expanded="false" />
+                <element signature="e#2621#2748#0" expanded="false" />
+                <element signature="e#2826#3185#0" expanded="false" />
+                <element signature="e#2901#3151#0" expanded="false" />
+                <element signature="e#2986#3113#0" expanded="false" />
+                <element signature="e#3253#3432#0" expanded="false" />
+                <element signature="e#3490#3588#0" expanded="false" />
+                <element signature="e#3593#3697#0" expanded="false" />
+                <element signature="e#3777#4673#0" expanded="false" />
+                <element signature="e#3897#4131#0" expanded="false" />
+                <element signature="e#3978#4097#0" expanded="false" />
+                <element signature="e#4199#4378#0" expanded="false" />
+                <element signature="e#4436#4534#0" expanded="false" />
+                <element signature="e#4539#4643#0" expanded="false" />
+                <element signature="e#4958#5047#0" expanded="false" />
+                <element signature="e#5484#5640#0" expanded="false" />
+                <element signature="e#5836#5974#0" expanded="false" />
+                <element signature="e#5985#6027#0" expanded="false" />
+                <element signature="e#6315#6539#0" expanded="false" />
+                <element signature="e#6420#6528#0" expanded="false" />
+                <element signature="e#6578#8264#0" expanded="false" />
+                <element signature="e#6678#8253#0" expanded="false" />
+                <element signature="e#6721#8239#0" expanded="false" />
+                <element signature="e#6801#7127#0" expanded="false" />
+                <element signature="e#7276#7430#0" expanded="false" />
+                <element signature="e#7501#7611#0" expanded="false" />
+                <element signature="e#7744#7860#0" expanded="false" />
+                <element signature="e#7895#8221#0" expanded="false" />
+                <element signature="e#8085#8144#0" expanded="false" />
+                <element signature="e#8595#8972#0" expanded="false" />
+                <element signature="e#9036#10102#0" expanded="false" />
+                <element signature="e#9175#9938#0" expanded="false" />
+                <element signature="e#9663#9924#0" expanded="false" />
+                <element signature="e#9838#9905#0" expanded="false" />
+                <element signature="e#9944#10090#0" expanded="false" />
+                <element signature="e#10207#10807#0" expanded="false" />
+                <element signature="e#10344#10492#0" expanded="false" />
+                <element signature="e#10686#10753#0" expanded="false" />
+                <element signature="e#10849#11137#0" expanded="false" />
+                <element signature="e#10887#11126#0" expanded="false" />
+                <element signature="e#10931#11029#0" expanded="false" />
+                <element signature="e#11035#11112#0" expanded="false" />
+                <element signature="e#11176#11368#0" expanded="false" />
+                <element signature="e#11190#11253#0" expanded="false" />
+                <element signature="e#11405#11487#0" expanded="false" />
+                <element signature="e#11526#11738#0" expanded="false" />
+                <element signature="e#11564#11626#0" expanded="false" />
+                <element signature="e#11776#12487#0" expanded="false" />
+                <element signature="e#11854#11928#0" expanded="false" />
+                <element signature="e#13230#13470#0" expanded="false" />
+                <element signature="e#13350#13448#0" expanded="false" />
+                <element signature="e#13801#13978#0" expanded="false" />
+                <element signature="e#13870#13905#0" expanded="false" />
+                <element signature="e#14297#14338#0" expanded="false" />
+                <element signature="e#15198#18406#0" expanded="false" />
+                <element signature="e#15337#15423#0" expanded="false" />
+                <element signature="e#15706#18397#0" expanded="false" />
+                <element signature="e#15726#15786#0" expanded="false" />
+                <element signature="e#16338#16502#0" expanded="false" />
+                <element signature="e#16574#16736#0" expanded="false" />
+                <element signature="e#16949#17103#0" expanded="false" />
+                <element signature="e#17175#17328#0" expanded="false" />
+                <element signature="e#17634#18103#0" expanded="false" />
+                <element signature="e#17718#17794#0" expanded="false" />
+                <element signature="e#18144#18273#0" expanded="false" />
+                <element signature="e#18312#18381#0" expanded="false" />
+                <element signature="e#18453#19530#0" expanded="false" />
+                <element signature="e#18463#18530#0" expanded="false" />
+                <element signature="e#18623#18646#0" expanded="false" />
+                <element signature="e#19571#19620#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rating.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/rating.js">
+      <file leaf-file-name="addContent.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/partials/addContent.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="23" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+            <state line="50" column="38" selection-start="2199" selection-end="2199" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,25 +216,16 @@
       <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="2" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typetest.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/typetest.jade">
+      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="26" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addContent.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/addContent.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="10" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0">
+            <state line="10" column="6" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,22 +255,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/views/partials/partial1.jade" />
-        <option value="$PROJECT_DIR$/views/partials/partial2.jade" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/views/partials/partial3.jade" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/public/js/services.js" />
-        <option value="$PROJECT_DIR$/public/js/directives.js" />
-        <option value="$PROJECT_DIR$/views/layout.jade" />
-        <option value="$PROJECT_DIR$/routes/database.js" />
-        <option value="$PROJECT_DIR$/public/js/app.js" />
-        <option value="$PROJECT_DIR$/views/index.jade" />
         <option value="$PROJECT_DIR$/public/js/rating.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/partials/typetest.jade" />
-        <option value="$PROJECT_DIR$/public/js/controllers.js" />
+        <option value="$PROJECT_DIR$/public/css/upload.css" />
+        <option value="$PROJECT_DIR$/public/js/fileUpload.js" />
+        <option value="$PROJECT_DIR$/public/js/services.js" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/public/js/directives.js" />
         <option value="$PROJECT_DIR$/views/partials/addContent.jade" />
+        <option value="$PROJECT_DIR$/public/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/routes/database.js" />
+        <option value="$PROJECT_DIR$/public/js/controllers.js" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
       </list>
     </option>
   </component>
@@ -208,7 +305,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -301,12 +397,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,7 +501,7 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <are-packages-shown value="false" />
       <are-modules-shown value="false" />
@@ -425,13 +522,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.81345564" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32721713" sideWeight="0.49960223" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24900557" sideWeight="0.6753049" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24582338" sideWeight="0.18654434" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12804878" sideWeight="0.49960223" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24900557" sideWeight="0.8719512" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24582338" sideWeight="0.8719512" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24582338" sideWeight="0.22477064" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32721713" sideWeight="0.5003978" order="7" side_tool="true" content_ui="tabs" />
@@ -512,108 +609,202 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/partials/partial2.jade">
+    <entry file="file://$PROJECT_DIR$/public/css/contents.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="43" selection-start="85" selection-end="85" vertical-scroll-proportion="0.047923323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/partial3.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="14" selection-start="568" selection-end="568" vertical-scroll-proportion="0.6709265" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="53" selection-start="354" selection-end="354" vertical-scroll-proportion="0.35942492" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="297" selection-end="297" vertical-scroll-proportion="0.2231405" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.32231405">
+        <state line="13" column="81" selection-start="198" selection-end="198" vertical-scroll-proportion="0.32231405">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/rating.js">
+    <entry file="file://$PROJECT_DIR$/public/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="23" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+        <state line="17" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="0.40605095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-105.07601">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/typetest.jade">
+    <entry file="file://$PROJECT_DIR$/node_modules/jade/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="26" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/directives.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/neo4j/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="198" selection-end="198" vertical-scroll-proportion="0.2231405">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="21" selection-start="5181" selection-end="5181" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#145#5108#0" expanded="false" />
-            <element signature="e#5770#8756#0" expanded="false" />
-            <marker date="1375491812000" expanded="true" signature="7961:8733" placeholder="..." />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.9669423">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
+    <entry file="file://$PROJECT_DIR$/public/ckeditor/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+        <state line="58" column="11" selection-start="2040" selection-end="2040" vertical-scroll-proportion="-8.509091">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/addContent.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="10" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0">
+        <state line="50" column="38" selection-start="2199" selection-end="2199" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="308" column="37" selection-start="12567" selection-end="12567" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#15#32#0" expanded="false" />
+            <element signature="e#145#5108#0" expanded="false" />
+            <element signature="e#377#1046#0" expanded="false" />
+            <element signature="e#425#584#0" expanded="false" />
+            <element signature="e#486#566#0" expanded="false" />
+            <element signature="e#627#822#0" expanded="false" />
+            <element signature="e#724#804#0" expanded="false" />
+            <element signature="e#1081#1176#0" expanded="false" />
+            <element signature="e#1220#1270#0" expanded="false" />
+            <element signature="e#1311#1361#0" expanded="false" />
+            <element signature="e#1419#5101#0" expanded="false" />
+            <element signature="e#1433#5090#0" expanded="false" />
+            <element signature="e#1716#1805#0" expanded="false" />
+            <element signature="e#1977#4721#0" expanded="false" />
+            <element signature="e#2073#4699#0" expanded="false" />
+            <element signature="e#2148#3727#0" expanded="false" />
+            <element signature="e#2417#2820#0" expanded="false" />
+            <element signature="e#2492#2786#0" expanded="false" />
+            <element signature="e#2621#2748#0" expanded="false" />
+            <element signature="e#2826#3185#0" expanded="false" />
+            <element signature="e#2901#3151#0" expanded="false" />
+            <element signature="e#2986#3113#0" expanded="false" />
+            <element signature="e#3253#3432#0" expanded="false" />
+            <element signature="e#3490#3588#0" expanded="false" />
+            <element signature="e#3593#3697#0" expanded="false" />
+            <element signature="e#3777#4673#0" expanded="false" />
+            <element signature="e#3897#4131#0" expanded="false" />
+            <element signature="e#3978#4097#0" expanded="false" />
+            <element signature="e#4199#4378#0" expanded="false" />
+            <element signature="e#4436#4534#0" expanded="false" />
+            <element signature="e#4539#4643#0" expanded="false" />
+            <element signature="e#4958#5047#0" expanded="false" />
+            <element signature="e#5484#5640#0" expanded="false" />
+            <element signature="e#5836#5974#0" expanded="false" />
+            <element signature="e#5985#6027#0" expanded="false" />
+            <element signature="e#6315#6539#0" expanded="false" />
+            <element signature="e#6420#6528#0" expanded="false" />
+            <element signature="e#6578#8264#0" expanded="false" />
+            <element signature="e#6678#8253#0" expanded="false" />
+            <element signature="e#6721#8239#0" expanded="false" />
+            <element signature="e#6801#7127#0" expanded="false" />
+            <element signature="e#7276#7430#0" expanded="false" />
+            <element signature="e#7501#7611#0" expanded="false" />
+            <element signature="e#7744#7860#0" expanded="false" />
+            <element signature="e#7895#8221#0" expanded="false" />
+            <element signature="e#8085#8144#0" expanded="false" />
+            <element signature="e#8595#8972#0" expanded="false" />
+            <element signature="e#9036#10102#0" expanded="false" />
+            <element signature="e#9175#9938#0" expanded="false" />
+            <element signature="e#9663#9924#0" expanded="false" />
+            <element signature="e#9838#9905#0" expanded="false" />
+            <element signature="e#9944#10090#0" expanded="false" />
+            <element signature="e#10207#10807#0" expanded="false" />
+            <element signature="e#10344#10492#0" expanded="false" />
+            <element signature="e#10686#10753#0" expanded="false" />
+            <element signature="e#10849#11137#0" expanded="false" />
+            <element signature="e#10887#11126#0" expanded="false" />
+            <element signature="e#10931#11029#0" expanded="false" />
+            <element signature="e#11035#11112#0" expanded="false" />
+            <element signature="e#11176#11368#0" expanded="false" />
+            <element signature="e#11190#11253#0" expanded="false" />
+            <element signature="e#11405#11487#0" expanded="false" />
+            <element signature="e#11526#11738#0" expanded="false" />
+            <element signature="e#11564#11626#0" expanded="false" />
+            <element signature="e#11776#12487#0" expanded="false" />
+            <element signature="e#11854#11928#0" expanded="false" />
+            <element signature="e#13230#13470#0" expanded="false" />
+            <element signature="e#13350#13448#0" expanded="false" />
+            <element signature="e#13801#13978#0" expanded="false" />
+            <element signature="e#13870#13905#0" expanded="false" />
+            <element signature="e#14297#14338#0" expanded="false" />
+            <element signature="e#15198#18406#0" expanded="false" />
+            <element signature="e#15337#15423#0" expanded="false" />
+            <element signature="e#15706#18397#0" expanded="false" />
+            <element signature="e#15726#15786#0" expanded="false" />
+            <element signature="e#16338#16502#0" expanded="false" />
+            <element signature="e#16574#16736#0" expanded="false" />
+            <element signature="e#16949#17103#0" expanded="false" />
+            <element signature="e#17175#17328#0" expanded="false" />
+            <element signature="e#17634#18103#0" expanded="false" />
+            <element signature="e#17718#17794#0" expanded="false" />
+            <element signature="e#18144#18273#0" expanded="false" />
+            <element signature="e#18312#18381#0" expanded="false" />
+            <element signature="e#18453#19530#0" expanded="false" />
+            <element signature="e#18463#18530#0" expanded="false" />
+            <element signature="e#18623#18646#0" expanded="false" />
+            <element signature="e#19571#19620#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/database.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1833" selection-end="1833" vertical-scroll-proportion="0.0">
+        <state line="65" column="39" selection-start="2083" selection-end="2083" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="23" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
+        <state line="65" column="12" selection-start="1304" selection-end="1307" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="228" selection-end="228" vertical-scroll-proportion="0.2388535">
+        <state line="9" column="16" selection-start="209" selection-end="209" vertical-scroll-proportion="0.21496816">
           <folding />
         </state>
       </provider>

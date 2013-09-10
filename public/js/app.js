@@ -7,9 +7,7 @@ angular.module('myApp', [
   'myApp.filters',
   'myApp.services',
   'myApp.directives',
-  'ui.bootstrap.dropdownToggle',
-  'ui.bootstrap.rating'
-
+  'ui.bootstrap'
 ]).
 config(function ($routeProvider, $locationProvider) {
   $routeProvider.
@@ -18,9 +16,9 @@ config(function ($routeProvider, $locationProvider) {
       templateUrl: 'partials/typetest',
       controller: 'termCtrl'
     }).
-      when('/add', {
+      when('/addContent', {
           templateUrl: 'partials/addContent',
-          controller: "add"
+          controller: "addContent"
       }).
     otherwise({
       redirectTo: '/type'

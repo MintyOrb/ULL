@@ -6,40 +6,89 @@
    To change this template use File | Settings | File Templates.
 
 
-
+//upload:
+link(rel='stylesheet', href='css/upload.css')
 h1 Catalogue new content
-    // make sure the philosophy is understood before people add content (it's not about quantity but quality...)
+    // make sure the philosophy and expectations are understood before people add content (it's not about quantity but quality...)
 
-div(ng-controller="add")
-   form
+div(ng-controller="addContent")
+   form(name="contentForm")
             label Content URL:
-            input(type="URL", ng-model="content.url")
-            //fetch preview if possible (video, website, etc)
+            input(type="url", ng-change="urlChange()", ng-model="contentObject.url")
+            //video preview
+
+            //link preview
+            br
+            img(ng-src="{{contentObject.url}}", width = "100")
+            //capture preview?
+
+            //control to upload file - adapted to jade from http://jsfiddle.net/danielzen/utp7j/
+
+            div.row
+                label(for="fileToUpload") Select a File to Upload
+                input(type="file", accept="image/*", ng-model-instant, id="fileToUpload", single, onchange="angular.element(this).scope().setFiles(this)")
+            div#dropbox.dropbox(ng-class="dropClass")
+                span {{dropText}}
+            div(ng-show="files.length")
+                div(ng-repeat="file in files.slice(0)")
+                    span {{file.webkitRelativePath || file.name}}
+                    br
+                    span(ng-switch="file.size > 1024*1024")
+                      span(ng-switch-when="true") {{file.size / 1024 / 1024 | number:2}} Mb
+                      span(ng-switch-default) {{file.size / 1024 | number:2}} kb
+                //input(type="button", ng-click="uploadFile()", value="Upload")
+                div(ng-show="progressVisible")
+                    div.percent {{progress}}
+                    div.progress-bar
+                        div.uploaded(ng-style="{'width' : progress +'%'}")
+
+                //when button clicked make url input invisible, when input gets text, make upload dissapear
+                        //use ngif
+
             label Title:
-            input(type="text", ng-model="content.title")
+            input(type="text", ng-blur="", ng-model="contentObject.title")
             label Why is this content valuable? What should be taken away?:
-            textarea.span5(ng-model="content.valueStatement")
+            textarea.span5(ck-editor, ng-model="contentObject.valueStatement")
             label Description of Content:
-            textarea.span5(ng-model="content.description")
+            textarea.span5(ck-editor, ng-model="contentObject.description")
             label Source: What group or individual made this?
-            textarea.span5(ng-model="content.source")
-            label Relevant Dates:
-            textarea.span5(ng-model="content.links")
+            textarea.span5(ck-editor, ng-model="contentObject.source")
             label Relevant Links:
-            textarea.span5(ng-model="content.links")
+            textarea.span5(ck-editor, ng-model="contentObject.links")
+            br
+            br
+            button.btn(ng-click="submitNew()") Add Content!
 
 
+    // TODO add and create new terms using a modal
+
+   p(ng-model="contentObject.links") {{contentObject.links}}
+   p {{test}}
+   p {{test2}}
+   p {{test3}}
+   p {{content}}
 
 
-   rating( value="rate", max="5")
+// UI start rating. Broken.
+   rating( value="rate", max="10",readonly="isReadonly", on-hover="hoveringOver(value)", on-leave="overStar = null")
+
+   span.badge.badge-inverse( ng-show="overStar && !isReadonly") {{overStar}} / {{max}})
+
+
+       pre Rate:
+            b {{rate}} Readonly is:
+            i {{isReadonly}} Hovering over:
+            b {{overStar || "none"}}
 
    p {{test}}
+
+   p {{content}}
 
    p why can't I see it?
 
 
 
-   //
+// what this page should include:
     p upload or link to content
            p if image, downlaod it to server
            p if video make sure embedding is setup
@@ -68,5 +117,4 @@ div(ng-controller="add")
                 p questions
                 p view count
                 p various ratings
-
 

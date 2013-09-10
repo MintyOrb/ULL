@@ -4,11 +4,13 @@
  */
 
 var express = require('express'),
-  routes = require('./routes'),
-  api = require('./routes/api'),
-  http = require('http'),
-  path = require('path'),
-  database = require('./routes/database');
+    routes = require('./routes'),
+    api = require('./routes/api'),
+    http = require('http'),
+    path = require('path'),
+    database = require('./routes/database'),
+    passport = require("passport");
+
 
 var app = module.exports = express();
 
@@ -48,21 +50,21 @@ app.get('/partials/:name', routes.partials);
 
 
 //database
-
-//app.get('/query/type', database.type);
-//app.get('/query/test', database.test);
-//app.get('/query/coreTerms', database.coreTerms);
-
-
-//replace the above routes with a single one. something like the following (but correct):
-
+    //match database query functions
 function dataQuery(req, res) {
     var func = database[req.param('query')];
     func(req, res);
 }
-
+    //match database create functions
+function dataCreate(req, res) {
+    var func = database[req.param('create')];
+    func(req, res);
+}
+//handle data queries
 app.get('/query/:query', dataQuery);
-//app.get('/query/:function', database.start)
+
+//handle adding new content
+app.post('/create/:create', dataCreate)
 
 
 // redirect all others to the index (HTML5 history)
